@@ -1,0 +1,17 @@
+{
+	"cameraLookMapping": {
+		"mouseButton": "left"
+	},
+	"cameraPanMapping": {
+		"mouseButton": "right"
+	},
+	"cameraPanMapping2": {
+		"mouseButton": "left",
+		"modifiers": [
+			"shift"
+		]
+	},
+	"cameraZoomMapping": {
+		"mouseButton": "middle"
+	}
+}
